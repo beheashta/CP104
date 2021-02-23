@@ -1,0 +1,43 @@
+-------------------------------------------------------
+Assignment 8
+-------------------------------------------------------
+Author:  Beheashta Atchekzai
+ID:      190637520
+Email:   atch7520@mylaurier.ca
+(Add a second set of Author/ID/Email if working in pairs)
+Version: 2019-11-16
+-------------------------------------------------------
+-------------------------------------------------------
+q1
+-------------------------------------------------------
+Enter a string of numbers to be summed up by single digits: h
+
+The sum of the digits in the string is 1
+-------------------------------------------------------
+q2
+-------------------------------------------------------
+Enter a string: heeeeeeel
+
+The most frequently occurring characters in the input string are: ['e']
+-------------------------------------------------------
+q3
+-------------------------------------------------------
+Enter a string: hey there. friend
+
+The proper sentence would be: Hey there. Friend
+-------------------------------------------------------
+q4
+-------------------------------------------------------
+Enter a list of strings: hello, orange, home
+
+That list is a word chain!
+-------------------------------------------------------
+
+
+
+
+
+
+Enter a string of numbers to be summed up by single digits: 57ah 10 asdsa
+
+The sum of the digits in the string is 13

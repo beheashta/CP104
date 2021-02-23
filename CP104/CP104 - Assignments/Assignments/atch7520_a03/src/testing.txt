@@ -1,0 +1,35 @@
+-------------------------------------------------------
+Assignment 3 
+-------------------------------------------------------
+Author:  Beheashta Atchekzai
+ID:      190637520
+Email:   atch7520@mylaurier.ca
+Version: 2019-09-27
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+q1
+-------------------------------------------------------
+Enter number of balloons:12
+Enter number of children:3
+Each child will receive 4 balloons
+Balloons that wont be distributed: 0
+-------------------------------------------------------
+q2
+-------------------------------------------------------
+Enter your score in Midterm (0-100): 76
+Enter your score in Final (0-100): 20
+Your weighted exam score is: 23.2
+-------------------------------------------------------
+q3
+-------------------------------------------------------
+Enter a positive two digit integer:45
+The sum of the two digits in the integer (45) is: 9
+-------------------------------------------------------
+q4
+-------------------------------------------------------
+Enter the fat grams consumed:5
+Enter the carbohydrate grams consumed:7
+Total calories a total of 73 [Fat calories 45.00 and Carbohydrate calories 28.00]
+-------------------------------------------------------
+
